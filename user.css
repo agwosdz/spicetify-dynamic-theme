@@ -317,7 +317,9 @@ img.main-devicePicker-nowPlayingActiveIcon,
 div.main-home-homeHeader {
     display: none !important;
 }
-
+.eBxEUeZhLhMiwCvoQAOj {
+	visibility: hidden
+}
 /* smooth color transitions */
 @property --spice-sidebar {
     syntax: "<color>";
@@ -364,3 +366,4 @@ html {
         --spice-button 0.5s,
         --spice-player 0.5s;
 }
+
